@@ -1,4 +1,6 @@
 # 少し間抜けなAIとの三目並べ
+# URL
+- https://matthewdann.github.io/02_tictactoe_1/
 ## 紹介と使い方
 - AIとの三目並べです。
 - AIはゲーム理論のミニマックス戦略に基づいて行動します。
